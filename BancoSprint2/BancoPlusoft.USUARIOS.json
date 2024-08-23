@@ -1,0 +1,506 @@
+[{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda88"
+  },
+  "id_Usuario": 1,
+  "nome_Usuario": "João Silva",
+  "email_Corporativo_Usuario": "joao@empresa.com",
+  "senha_Usuario": "senha123",
+  "empresa": {
+    "id_Empresa": 1,
+    "nome_Empresa": "Empresa XYZ",
+    "cnpj_Empresa": "12345678901234",
+    "ramo_Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": 1,
+      "url_Website": "http://www.empresa.com",
+      "nome_Website": "Empresa Website",
+      "descricao_Website": "Website principal da empresa"
+    },
+    "endereco": {
+      "cep_Endereco": "01234567",
+      "rua_Endereco": "Rua Principal",
+      "num_Endereco": 123,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "São Paulo",
+      "estado_Endereco": "SP",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 1
+    }
+  },
+  "analise": {
+    "id_Analise": 1,
+    "resultados_Analise": "Análise de tráfego do website",
+    "data_Analise": "2024-05-17T00:00:00"
+  },
+  "trafego": {
+    "id_Trafego": 1,
+    "num_Visitantes": 1000,
+    "tempo_MedioVisitaSite": "2024-05-17T16:16:56.639611"
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda89"
+  },
+  "id_Usuario": 2,
+  "nome_Usuario": "Maria Oliveira",
+  "email_Corporativo_Usuario": "maria@empresa.com",
+  "senha_Usuario": "senha456",
+  "empresa": {
+    "id_Empresa": 1,
+    "nome_Empresa": "Empresa XYZ",
+    "cnpj_Empresa": "12345678901234",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": 1,
+      "url_Website": "http://www.empresa.com",
+      "nome_Website": "Empresa Website",
+      "descricao_Website": "Website principal da empresa"
+    },
+    "endereco": {
+      "cep_Endereco": "01234567",
+      "rua_Endereco": "Rua Principal",
+      "num_Endereco": 123,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "São Paulo",
+      "estado_Endereco": "SP",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 1
+    }
+  },
+  "analise": {
+    "id_Analise": 1,
+    "resultados_Analise": "Análise de tráfego do website",
+    "data_Analise": "2024-05-17T00:00:00"
+  },
+  "trafego": {
+    "id_Trafego": 1,
+    "num_Visitantes": 1000,
+    "tempo_MedioVisitaSite": "2024-05-17T16:16:56.639611"
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda8a"
+  },
+  "id_Usuario": 3,
+  "nome_Usuario": "Pedro Santos",
+  "email_Corporativo_Usuario": "pedro@empresa.com",
+  "senha_Usuario": "senha789",
+  "empresa": {
+    "id_Empresa": 1,
+    "nome_Empresa": "Empresa XYZ",
+    "cnpj_Empresa": "12345678901234",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": 1,
+      "url_Website": "http://www.empresa.com",
+      "nome_Website": "Empresa Website",
+      "descricao_Website": "Website principal da empresa"
+    },
+    "endereco": {
+      "cep_Endereco": "01234567",
+      "rua_Endereco": "Rua Principal",
+      "num_Endereco": 123,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "São Paulo",
+      "estado_Endereco": "SP",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 1
+    }
+  },
+  "analise": {
+    "id_Analise": 1,
+    "resultados_Analise": "Análise de tráfego do website",
+    "data_Analise": "2024-05-17T00:00:00"
+  },
+  "trafego": {
+    "id_Trafego": 1,
+    "num_Visitantes": 1000,
+    "tempo_MedioVisitaSite": "2024-05-17T16:16:56.639611"
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda8b"
+  },
+  "id_Usuario": 4,
+  "nome_Usuario": "Ana Souza",
+  "email_Corporativo_Usuario": "ana@empresa.com",
+  "senha_Usuario": "senhaabc",
+  "empresa": {
+    "id_Empresa": 1,
+    "nome_Empresa": "Empresa XYZ",
+    "cnpj_Empresa": "12345678901234",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": 1,
+      "url_Website": "http://www.empresa.com",
+      "nome_Website": "Empresa Website",
+      "descricao_Website": "Website principal da empresa"
+    },
+    "endereco": {
+      "cep_Endereco": "01234567",
+      "rua_Endereco": "Rua Principal",
+      "num_Endereco": 123,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "São Paulo",
+      "estado_Endereco": "SP",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 1
+    }
+  },
+  "analise": {
+    "id_Analise": 1,
+    "resultados_Analise": "Análise de tráfego do website",
+    "data_Analise": "2024-05-17T00:00:00"
+  },
+  "trafego": {
+    "id_Trafego": 1,
+    "num_Visitantes": 1000,
+    "tempo_MedioVisitaSite": "2024-05-17T16:16:56.639611"
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda8c"
+  },
+  "id_Usuario": 5,
+  "nome_Usuario": "Carlos Silva",
+  "email_Corporativo_Usuario": "carlos@empresa.com",
+  "senha_Usuario": "senhadef",
+  "empresa": {
+    "id_Empresa": 1,
+    "nome_Empresa": "Empresa XYZ",
+    "cnpj_Empresa": "12345678901234",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": 1,
+      "url_Website": "http://www.empresa.com",
+      "nome_Website": "Empresa Website",
+      "descricao_Website": "Website principal da empresa"
+    },
+    "endereco": {
+      "cep_Endereco": "01234567",
+      "rua_Endereco": "Rua Principal",
+      "num_Endereco": 123,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "São Paulo",
+      "estado_Endereco": "SP",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 1
+    }
+  },
+  "analise": {
+    "id_Analise": 1,
+    "resultados_Analise": "Análise de tráfego do website",
+    "data_Analise": "2024-05-17T00:00:00"
+  },
+  "trafego": {
+    "id_Trafego": 1,
+    "num_Visitantes": 1000,
+    "tempo_MedioVisitaSite": "2024-05-17T16:16:56.639611"
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda8d"
+  },
+  "id_Usuario": 6,
+  "nome_Usuario": "Laura Ferreira",
+  "email_Corporativo_Usuario": "laura@empresa.com",
+  "senha_Usuario": "senhaxyz",
+  "empresa": {
+    "id_Empresa": 1,
+    "nome_Empresa": "Empresa XYZ",
+    "cnpj_Empresa": "12345678901234",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": 1,
+      "url_Website": "http://www.empresa.com",
+      "nome_Website": "Empresa Website",
+      "descricao_Website": "Website principal da empresa"
+    },
+    "endereco": {
+      "cep_Endereco": "01234567",
+      "rua_Endereco": "Rua Principal",
+      "num_Endereco": 123,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "São Paulo",
+      "estado_Endereco": "SP",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 1
+    }
+  },
+  "analise": {
+    "id_Analise": 1,
+    "resultados_Analise": "Análise de tráfego do website",
+    "data_Analise": "2024-05-17T00:00:00"
+  },
+  "trafego": {
+    "id_Trafego": 1,
+    "num_Visitantes": 1000,
+    "tempo_MedioVisitaSite": "2024-05-17T16:16:56.639611"
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda8e"
+  },
+  "id_Usuario": 7,
+  "nome_Usuario": "Patrícia Santos",
+  "email_Corporativo_Usuario": "patricia@empresaabc.com",
+  "senha_Usuario": "senha123",
+  "empresa": {
+    "id_Empresa": 2,
+    "nome_Empresa": "Empresa ABC",
+    "cnpj_Empresa": "98765432109876",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": null,
+      "url_Website": null,
+      "nome_Website": null,
+      "descricao_Website": null
+    },
+    "endereco": {
+      "cep_Endereco": "98765432",
+      "rua_Endereco": "Avenida Central",
+      "num_Endereco": 456,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "Rio de Janeiro",
+      "estado_Endereco": "RJ",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 2
+    }
+  },
+  "analise": {
+    "id_Analise": null,
+    "resultados_Analise": null,
+    "data_Analise": null
+  },
+  "trafego": {
+    "id_Trafego": null,
+    "num_Visitantes": null,
+    "tempo_MedioVisitaSite": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda8f"
+  },
+  "id_Usuario": 8,
+  "nome_Usuario": "Marcos Oliveira",
+  "email_Corporativo_Usuario": "marcos@empresaabc.com",
+  "senha_Usuario": "senha456",
+  "empresa": {
+    "id_Empresa": 2,
+    "nome_Empresa": "Empresa ABC",
+    "cnpj_Empresa": "98765432109876",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": null,
+      "url_Website": null,
+      "nome_Website": null,
+      "descricao_Website": null
+    },
+    "endereco": {
+      "cep_Endereco": "98765432",
+      "rua_Endereco": "Avenida Central",
+      "num_Endereco": 456,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "Rio de Janeiro",
+      "estado_Endereco": "RJ",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 2
+    }
+  },
+  "analise": {
+    "id_Analise": null,
+    "resultados_Analise": null,
+    "data_Analise": null
+  },
+  "trafego": {
+    "id_Trafego": null,
+    "num_Visitantes": null,
+    "tempo_MedioVisitaSite": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda90"
+  },
+  "id_Usuario": 9,
+  "nome_Usuario": "Ana Lima",
+  "email_Corporativo_Usuario": "ana@empresaabc.com",
+  "senha_Usuario": "senha789",
+  "empresa": {
+    "id_Empresa": 2,
+    "nome_Empresa": "Empresa ABC",
+    "cnpj_Empresa": "98765432109876",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": null,
+      "url_Website": null,
+      "nome_Website": null,
+      "descricao_Website": null
+    },
+    "endereco": {
+      "cep_Endereco": "98765432",
+      "rua_Endereco": "Avenida Central",
+      "num_Endereco": 456,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "Rio de Janeiro",
+      "estado_Endereco": "RJ",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 2
+    }
+  },
+  "analise": {
+    "id_Analise": null,
+    "resultados_Analise": null,
+    "data_Analise": null
+  },
+  "trafego": {
+    "id_Trafego": null,
+    "num_Visitantes": null,
+    "tempo_MedioVisitaSite": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda91"
+  },
+  "id_Usuario": 10,
+  "nome_Usuario": "Felipe Silva",
+  "email_Corporativo_Usuario": "felipe@empresaabc.com",
+  "senha_Usuario": "senhaabc",
+  "empresa": {
+    "id_Empresa": 2,
+    "nome_Empresa": "Empresa ABC",
+    "cnpj_Empresa": "98765432109876",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": null,
+      "url_Website": null,
+      "nome_Website": null,
+      "descricao_Website": null
+    },
+    "endereco": {
+      "cep_Endereco": "98765432",
+      "rua_Endereco": "Avenida Central",
+      "num_Endereco": 456,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "Rio de Janeiro",
+      "estado_Endereco": "RJ",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 2
+    }
+  },
+  "analise": {
+    "id_Analise": null,
+    "resultados_Analise": null,
+    "data_Analise": null
+  },
+  "trafego": {
+    "id_Trafego": null,
+    "num_Visitantes": null,
+    "tempo_MedioVisitaSite": null
+  }
+},
+{
+  "_id": {
+    "$oid": "6647ebda25bdf9b26abdda92"
+  },
+  "id_Usuario": 11,
+  "nome_Usuario": "Carla Souza",
+  "email_Corporativo_Usuario": "carla@empresaabc.com",
+  "senha_Usuario": "senhaxyz",
+  "empresa": {
+    "id_Empresa": 2,
+    "nome_Empresa": "Empresa ABC",
+    "cnpj_Empresa": "98765432109876",
+    "Ramo Empresa": {
+      "id_ramoEmpresa": 1,
+      "nome_ramo": "Tecnologia",
+      "desc_ramo": "Empresa voltada para soluções em tecnologia."
+    },
+    "WebSite": {
+      "id_Website": null,
+      "url_Website": null,
+      "nome_Website": null,
+      "descricao_Website": null
+    },
+    "endereco": {
+      "cep_Endereco": "98765432",
+      "rua_Endereco": "Avenida Central",
+      "num_Endereco": 456,
+      "bairro_Endereco": "Centro",
+      "cidade_Endereco": "Rio de Janeiro",
+      "estado_Endereco": "RJ",
+      "uf_Endereco": "BR",
+      "pais_Endereco": "Brasil",
+      "id_Endereco": 2
+    }
+  },
+  "analise": {
+    "id_Analise": null,
+    "resultados_Analise": null,
+    "data_Analise": null
+  },
+  "trafego": {
+    "id_Trafego": null,
+    "num_Visitantes": null,
+    "tempo_MedioVisitaSite": null
+  }
+}]
